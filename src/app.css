@@ -1,0 +1,9 @@
+.row {
+  text-align: center;
+}
+.ok {
+  background-color: green;
+}
+button {
+  margin-right: 5px;
+}
